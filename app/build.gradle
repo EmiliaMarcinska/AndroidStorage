@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace 'com.plcoding.androidstorage'
     compileSdkVersion 30
 
     defaultConfig {
